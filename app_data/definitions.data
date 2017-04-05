@@ -1,0 +1,9 @@
+tmobile_cdr|Service Code Switch Name 1st LTE Site ID 1st LTE Sector ID
+att_cdr|AT&T has queried for records
+att_landline|DialedNumber,ElapsedTime,CIC,CallCode,OrigAcc
+sprint_cdr|CALLING_NBR CALLED_NBR DIALED_DIGITS
+m2_wireless_cdr|CALLING PARTY RECIPIENT PARTY DIAL CODE TOWER ID TOWER AZIMUTH
+tmobile_legacy|MSISDN IMSI IMEI Event Type Start Time Direction Connected To
+verizon_volte|Service Delivery Start Date/Time Service Delivery Start Dt/Tm(GMT) SID NID Cell ID Cell Face
+verizon_standard|Network Element Name Mobile Directory Number Dialed Digit Number Call Direction Seizure Dt Tm Seizure Duration
+verizon_sms_record|Msg Send Date Msg Deliver Date Message Completion Status
